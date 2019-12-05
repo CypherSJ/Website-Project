@@ -6,7 +6,7 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+/* CSS for Nav Bar */
 .container {
 	font-family: Roboto;
 	font-weight: 500;
@@ -70,7 +70,7 @@ nav a {
 	background-color: #3d3d3d;
 	padding: 25px;
 }
-
+/* CSS for Food/Drink, Things to do, Places to go. */
 .imagebox {
 	float: left;
 	padding: 10px;
@@ -124,7 +124,7 @@ li {
 
 
 
-/* this is for the tabs */
+/* this is for the tabs in Home Page */
 
 .title{
     font-family: sans-serif;
